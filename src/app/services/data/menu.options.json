@@ -1,0 +1,77 @@
+[
+    {
+      "icon": "american-football",
+      "name": "Action Sheet",
+      "redirectTo": "/action-sheet"
+    },
+    {
+      "icon": "alert-circle-outline",
+      "name": "Alert",
+      "redirectTo": "/alert"
+    },
+    {
+      "icon": "beaker-outline",
+      "name": "Avatar",
+      "redirectTo": "/avatar"
+    },
+    {
+      "icon": "radio-button-off-outline",
+      "name": "Botones",
+      "redirectTo": "/botones"
+    },
+    {
+      "icon": "card-outline",
+      "name": "Cards",
+      "redirectTo": "/card"
+    },
+    {
+      "icon": "checkmark-circle-outline",
+      "name": "Checks",
+      "redirectTo": "/check"
+    },
+    {
+      "icon": "calendar-outline",
+      "name": "DateTime",
+      "redirectTo": "/date-time"
+    },
+    {
+      "icon": "close-circle-outline",
+      "name": "Fab",
+      "redirectTo": "/fab"
+    },
+    {
+      "icon": "grid-outline",
+      "name": "Grid",
+      "redirectTo": "/grid"
+    }, 
+    {
+      "icon": "infinite-outline",
+      "name": "Infinite",
+      "redirectTo": "/infinite"
+    },
+    {
+      "icon": "albums-outline",
+      "name": "Input",
+      "redirectTo": "/input"
+    },
+    {
+      "icon": "list-outline",
+      "name": "List - Sliding",
+      "redirectTo": "/lista"
+    },
+    {
+      "icon": "list-circle-outline",
+      "name": "List - reorder",
+      "redirectTo": "/lista-reordenada"
+    },
+    {
+      "icon": "reload-circle-outline",
+      "name": "Loading",
+      "redirectTo": "/loading"
+    },
+    {
+      "icon": "phone-portrait-outline",
+      "name": "Modal",
+      "redirectTo": "/modal"
+    }
+]

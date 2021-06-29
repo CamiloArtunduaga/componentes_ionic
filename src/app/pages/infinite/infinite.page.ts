@@ -18,11 +18,21 @@ export class InfinitePage implements OnInit {
 
   loadData(event) {
 
+  
+
     setTimeout(() => {
+      if( this.data.length > 50 ) {
+        this.infiniteScroll.complete();
+        this.infiniteScroll.disabled = true;
+        return;
+      }
+
       const nuevoArr = Array(20);
       this.data.push(...nuevoArr);
 
-      event.target.complete();
+      // event.target.complete();
+
+      this.infiniteScroll.complete();
       
     }, 1500);
   }
