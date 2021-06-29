@@ -2,47 +2,47 @@
     {
         "icon": "american-football",
         "name": "Action Sheet",
-        " redirectTo": "/action-sheet"
+        "redirectTo": "/action-sheet"
       },
       {
         "icon": "alert-circle-outline",
         "name": "Alert",
-        " redirectTo": "/alert"
+        "redirectTo": "/alert"
       },
       {
         "icon": "beaker-outline",
         "name": "Avatar",
-        " redirectTo": "/avatar"
+        "redirectTo": "/avatar"
       },
       {
         "icon": "radio-button-off-outline",
         "name": "Botones",
-        " redirectTo": "/botones"
+        "redirectTo": "/botones"
       },
       {
         "icon": "card-outline",
         "name": "Cards",
-        " redirectTo": "/card"
+        "redirectTo": "/card"
       },
       {
         "icon": "checkmark-circle-outline",
         "name": "Checks",
-        " redirectTo": "/check"
+        "redirectTo": "/check"
       },
       {
         "icon": "calendar-outline",
         "name": "DateTime",
-        " redirectTo": "/date-time"
+        "redirectTo": "/date-time"
       },
       {
         "icon": "close-circle-outline",
         "name": "Fab",
-        " redirectTo": "/fab"
+        "redirectTo": "/fab"
       },
       {
         "icon": "grid-outline",
         "name": "Grid",
-        " redirectTo": "/grid"
+        "redirectTo": "/grid"
       }, 
       {
         "icon": "infinite-outline",
@@ -88,6 +88,21 @@
         "icon": "refresh-circle-outline",
         "name": "Refresher",
         "redirectTo": "/refresher"
+      },
+      {
+        "icon": "search-outline",
+        "name": "Search",
+        "redirectTo": "/search"
+      },
+      {
+        "icon": "briefcase-outline",
+        "name": "Segment",
+        "redirectTo": "/segment"
+      },
+      {
+        "icon": "albums-outline",
+        "name": "Slides",
+        "redirectTo": "/slides"
       }
       
 ]
