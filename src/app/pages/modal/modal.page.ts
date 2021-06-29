@@ -9,7 +9,7 @@ import { ModalInfoPage } from '../modal-info/modal-info.page';
   styleUrls: ['./modal.page.scss'],
 })
 export class ModalPage implements OnInit {
-
+  
   constructor( public modalCtrl: ModalController ) { }
 
   ngOnInit() {
@@ -27,7 +27,10 @@ export class ModalPage implements OnInit {
         pais: 'Colombia'
       }
     });
-    return await modal.present();
+     await modal.present();
+
+    const {data} = await modal.onDidDismiss();
+    console.log(data);
   }
 
 }
